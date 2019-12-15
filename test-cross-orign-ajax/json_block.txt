@@ -1,0 +1,14 @@
+{
+  "response_id": "custom-shorttext-response-ccfcec62-ff02-4da3-8bd2-fab0add2d46d",
+  "type": "custom",
+  "js": {
+    "question":"https://demo.webwork.rochester.edu/gage/js/custom_shorttext_q.js",
+    "scorer":"https://demo.webwork.rochester.edu/gage/js/custom_shorttext_s.js"
+  },
+  "css": "//demos.learnosity.com/usecases/customquestions/custom_shorttext.css",
+  "stimulus": "What is the capital of Australia?",
+  "valid_response": "Canberra",
+  "score": 1
+}
+
+// https://demos.learnosity.com/usecases/customquestions/custom.php
